@@ -2,38 +2,47 @@
 	path = _external/data
 	url = https://github.com/w3c/wai-website-data.git
 	branch = master
+	
 [submodule "_external/resources/wai-inclusion"]
 	path = _external/resources/wai-inclusion
 	url = https://github.com/w3c/wai-inclusion.git
 	branch = gh-pages
+	
 [submodule "_external/resources/wai-bcase"]
 	path = _external/resources/wai-bcase
 	url = https://github.com/w3c/wai-bcase.git
 	branch = master
+	
 [submodule "_external/resources/wai-policies-prototype"]
 	path = _external/resources/wai-policies-prototype
 	url = https://github.com/w3c/wai-policies-prototype.git
 	branch = master
+	
 [submodule "_external/resources/wai-news"]
 	path = _external/resources/wai-news
 	url = https://github.com/w3c/wai-news.git
 	branch = master
+	
 [submodule "_external/resources/wai-quick-start"]
 	path = _external/resources/wai-quick-start
 	url = https://github.com/w3c/wai-quick-start.git
 	branch = master
+	
 [submodule "_external/resources/wai-intro-accessibility"]
 	path = _external/resources/wai-intro-accessibility
 	url = https://github.com/w3c/wai-intro-accessibility.git
 	branch = gh-pages
+	
 [submodule "_external/resources/wai-components"]
 	path = _external/resources/wai-components
 	url = https://github.com/w3c/wai-components.git
 	branch = master
+	
 [submodule "_external/resources/wai-accessibility-principles"]
 	path = _external/resources/wai-accessibility-principles
 	url = https://github.com/w3c/wai-accessibility-principles.git
 	branch = master
+	
 [submodule "_external/resources/wai-people-use-web"]
 	path = _external/resources/wai-people-use-web
 	url = https://github.com/w3c/wai-people-use-web.git
